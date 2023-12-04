@@ -1,4 +1,4 @@
-### Olá, eu sou o Kauan Pinheiro!👋🙂
+### Olá, Bem-vindo ao meu GitHub. Eu sou o Kauan Pinheiro!👋🙂
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/portfolio_kauanpinheiro?igshid=NzZlODBkYWE4Ng==) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-pinheiro-889237228/)
